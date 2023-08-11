@@ -28,9 +28,9 @@ const RESOURCES = {"assets/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7accbc20cf6b321875b2188325d1545f",
-"/": "7accbc20cf6b321875b2188325d1545f",
-"main.dart.js": "0d2b407b9ba83672d5689262c4ad1bc3",
+"index.html": "5a6e315ce6308c787b9a10572b7eadf3",
+"/": "5a6e315ce6308c787b9a10572b7eadf3",
+"main.dart.js": "2c4a1363991cbab2d0bd21f48e9f22da",
 "manifest.json": "b0422af783917d38bf6354bb35189105",
 "version.json": "4d0cc1075f3d4ffd88f1e5f9a72fc1c3"};
 // The application shell files that are downloaded before a service worker can
